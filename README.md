@@ -1,36 +1,36 @@
 # 🔐 Password Strength Checker
 
-## Features
-- Attractive UI (HTML/CSS/JS)
-- Backend API (Node.js + Express)
-- Real-time password strength feedback
+A beautifully designed, beginner-friendly web app to check the strength of your passwords. Built with HTML, CSS, and JavaScript, it features a clean blue-and-white theme, a motivational navbar, and educational cards on password safety.
 
 ---
 
-## 📦 How to Run This Project
+## 🌟 Features
 
-### 1. Clone or unzip the project
-
-### 2. Setup Backend
-
-```bash
-cd backend
-npm install
-npm start
-```
-
-Server will run on `http://localhost:3000`
+- ✅ Live password strength checking
+- 🔒 Shows strength status: Weak, Medium, Strong
+- 🧠 Three educational cards on:
+  - Password safety
+  - Best practices
+  - Common risks
+- 📱 Fully responsive on all devices
+- 🎨 Elegant blue & white UI
+- 🧾 Quote-based navbar on password safety
 
 ---
 
-### 3. Open Frontend
+## 🖼️ Demo
 
-Just open `frontend/index.html` in your browser.
+Live Website: [https://your-vercel-app-url.vercel.app](https://your-vercel-app-url.vercel.app)
 
-Start typing a password and see the strength in real-time!
+---
+
+## 📁 Project Structure
+
+
 
 ---
 
 ## 🛠️ Tech Used
 - HTML/CSS/JavaScript
 - Node.js + Express (Backend API)
+
