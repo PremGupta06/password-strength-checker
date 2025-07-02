@@ -20,8 +20,12 @@ A beautifully designed, beginner-friendly web app to check the strength of your 
 
 
 ## 📁 Project Structure
-
-
+password-strength-checker/
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+└── favicon.ico (optional)
 
 ---
 
