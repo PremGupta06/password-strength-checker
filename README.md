@@ -18,11 +18,6 @@ A beautifully designed, beginner-friendly web app to check the strength of your 
 
 ---
 
-## 🖼️ Demo
-
-Live Website: [https://your-vercel-app-url.vercel.app](https://your-vercel-app-url.vercel.app)
-
----
 
 ## 📁 Project Structure
 
