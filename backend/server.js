@@ -2,7 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const app = express();
 app.use(cors({
-  origin: "https://password-strength-checker-bay.vercel.app/"
+  origin: "https://password-strength-checker-c4scolile.vercel.app/"
 }));
 
 app.use(express.json());
