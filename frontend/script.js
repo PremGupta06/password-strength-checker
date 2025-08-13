@@ -5,7 +5,7 @@ const strengthBar = document.getElementById('strength-bar');
 passwordInput.addEventListener('input', async () => {
   const password = passwordInput.value;
 
-  const response = await fetch('http://localhost:3000/check-password', {
+  const response = await fetch('https://password-strength-checker-aio9.onrender.com', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ password }),
